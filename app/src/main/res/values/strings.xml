@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Finn Challenge</string>
+    <string name="action_favorite">favoriteToggle</string>
+    <string name="action_settings">setting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_Peoducts">s</string>
+    <string name="hemmmm">PRODUCTS</string>
+    <string name="products">PRODUCTS</string>
+</resources>
