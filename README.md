@@ -1,4 +1,4 @@
-# FinnChallenge
+# Finn Challenge
 This is a simple android app that gets published products for sale from Finn.no.
 It display the products, users can save their favorite item/product.
 User can access their favorite produt offline,
